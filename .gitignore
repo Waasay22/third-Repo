@@ -1,0 +1,5 @@
+*.log
+dir/
+asf/
+dba.accdb
+abc.docx
